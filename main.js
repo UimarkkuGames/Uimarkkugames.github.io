@@ -16,7 +16,7 @@ function ClickGithubButton()
 }
 function ClickBackButton()
 {
-    window.location.href = "index.html"
+    window.location.href = "Index.html"
 }
 function ClickBlogButton()
 {
