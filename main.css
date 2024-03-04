@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+    color: #fff;
+    text-align: center;
+    position: relative;
+}
+
+h1 {
+    text-align: center; 
+    color: silver;
+}
+p{
+    text-align: center; 
+    color: white;
+}
+.Button1{
+    background-color: lime;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    
+}
+
+.Button1:hover{
+    background-color: black;
+}
+.Button2{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+    
+    
+}
+.Button2:hover{
+    background-color: black;
+}
+
+
