@@ -26,3 +26,11 @@ function ClickBlog1Button()
 {
     window.location.href = "Blog-1.html"
 }
+function ClickBlog2Button()
+{
+    window.location.href = "Blog-2.html"
+}
+function ClickDownloadButton()
+{
+    window.open("https://uimarkkugames.itch.io/Kode-Killers")
+}
