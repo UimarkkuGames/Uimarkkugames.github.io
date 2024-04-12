@@ -37,5 +37,5 @@ function ClickDownloadButton()
 function ClickReturnButton()
 {
     var Kode = true;
-    window.open("https://uimarkkugames.vercel.app/")
+    window.location.href = "index.html"
 }
