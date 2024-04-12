@@ -34,3 +34,8 @@ function ClickDownloadButton()
 {
     window.open("https://uimarkkugames.itch.io/Kode-Killers")
 }
+function ClickReturnButton()
+{
+    var Kode = true;
+    window.open("https://uimarkkugames.vercel.app/")
+}
