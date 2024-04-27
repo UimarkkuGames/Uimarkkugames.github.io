@@ -32,10 +32,19 @@ function ClickBlog2Button()
 }
 function ClickDownloadButton()
 {
-    window.open("https://uimarkkugames.itch.io/Kode-Killers")
+    window.location.href = "Download.html"
 }
 function ClickReturnButton()
 {
     var Kode = true;
     window.location.href = "index.html"
 }
+function ClickDownloadZipButton()
+{
+window.open("https://github.com/UimarkkuGames/Uimarkkugames.github.io/releases/download/Kode_KIllers/Zip_KodeKillers.zip")
+}
+function ClickDownloadInstallerButton()
+{
+    window.open("https://github.com/UimarkkuGames/Uimarkkugames.github.io/releases/download/Kode_KIllers/Installer_Kode.Killers.exe")
+}
+
