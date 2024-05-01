@@ -41,10 +41,10 @@ function ClickReturnButton()
 }
 function ClickDownloadZipButton()
 {
-window.open("https://github.com/UimarkkuGames/Uimarkkugames.github.io/releases/download/Kode_KIllers/Zip_KodeKillers.zip")
+window.open("https://github.com/UimarkkuGames/Uimarkkugames.github.io/releases/download/Kode_KIllers/Kode.Killers.zip")
 }
 function ClickDownloadInstallerButton()
 {
-    window.open("https://github.com/UimarkkuGames/Uimarkkugames.github.io/releases/download/Kode_KIllers/Installer_Kode.Killers.exe")
+    window.open("https://github.com/UimarkkuGames/Uimarkkugames.github.io/releases/download/Kode_KIllers/Kode.Killers.exe")
 }
 
