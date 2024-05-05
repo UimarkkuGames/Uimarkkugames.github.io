@@ -2,22 +2,22 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: gray;
-    color: #fff;
+    background-color: #464944;
+    color: #E51AED;
     text-align: center;
     position: relative;
 }
 
 h1 {
     text-align: center; 
-    color: silver;
+    color: #6C436E;
 }
 p{
     text-align: center; 
     color: white;
 }
 .Button1{
-    background-color: lime;
+    background-color: #2CB051;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -51,7 +51,7 @@ footer {
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: darkgray;
+    background-color: #00000037;
     text-align: center;
     font-size: 15px;
 }
