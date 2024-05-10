@@ -32,7 +32,7 @@ function ClickBlog2Button()
 }
 function ClickDownloadButton()
 {
-    window.location.href = "Download.html"
+    window.location.href = "DownloadKodeKillers.html"
 }
 function ClickReturnButton()
 {
@@ -48,3 +48,7 @@ function ClickDownloadInstallerButton()
     window.open("https://github.com/UimarkkuGames/Uimarkkugames.github.io/releases/download/Kode_KIllers/Kode.Killers.exe")
 }
 
+function ClickOtherButton()
+{
+    window.location.href = "Downloads.html"
+}
