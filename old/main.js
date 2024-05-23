@@ -2,11 +2,11 @@ function ClickYoutubeButton()
 {
     window.open("https://youtube.com/@uimarkkugames/")
 }
-function ClickBlog1Button()
+function ClickBlogButton()
 {
     window.location.href = "blog-1.html"
 }
-function ClickBlog2Button()
+function ClickBackButton()
 {
-    window.location.href = "blog-2.html"
+    window.location.href = "index.html"
 }
