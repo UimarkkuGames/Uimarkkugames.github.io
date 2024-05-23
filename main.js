@@ -18,18 +18,7 @@ function ClickBackButton()
 {
     window.location.href = "index.html"
 }
-function ClickBlogButton()
-{
-    window.location.href = "blog.html"
-}
-function ClickBlog1Button()
-{
-    window.location.href = "blog-1.html"
-}
-function ClickBlog2Button()
-{
-    window.location.href = "blog-2.html"
-}
+
 function ClickDownloadButton()
 {
     window.location.href = "downloadkodekillers.html"
