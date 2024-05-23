@@ -20,19 +20,19 @@ function ClickBackButton()
 }
 function ClickBlogButton()
 {
-    window.location.href = "Blog.html"
+    window.location.href = "blog.html"
 }
 function ClickBlog1Button()
 {
-    window.location.href = "Blog-1.html"
+    window.location.href = "blog-1.html"
 }
 function ClickBlog2Button()
 {
-    window.location.href = "Blog-2.html"
+    window.location.href = "blog-2.html"
 }
 function ClickDownloadButton()
 {
-    window.location.href = "DownloadKodeKillers.html"
+    window.location.href = "downloadkodekillers.html"
 }
 function ClickReturnButton()
 {
@@ -50,5 +50,5 @@ function ClickDownloadInstallerButton()
 
 function ClickOtherButton()
 {
-    window.location.href = "Downloads.html"
+    window.location.href = "downloads.html"
 }
